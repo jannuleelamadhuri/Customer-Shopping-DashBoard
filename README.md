@@ -7,7 +7,7 @@
 Analyzed 3900+ customer records to understand shopping patterns, revenue trends, and customer segmentation.
 
 ### 📸 Dashboard Preview
-!{Dashboard}(DASH.png)
+![Dashboard](DASH.png)
 ### 📁 Files Included
 - Business Problem Document.pdf
 - Customer-Shopping-Behavior-Analysis.pptx
