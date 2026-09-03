@@ -7,8 +7,7 @@
 Analyzed 3900+ customer records to understand shopping patterns, revenue trends, and customer segmentation.
 
 ### 📸 Dashboard Preview
-(Add your Power BI screenshot here - DASH.png upload chey)
-
+!{Dashboard}(DASH.png)
 ### 📁 Files Included
 - Business Problem Document.pdf
 - Customer-Shopping-Behavior-Analysis.pptx
