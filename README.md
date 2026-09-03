@@ -24,7 +24,5 @@ Analyzed 3900+ customer records to understand shopping patterns, revenue trends,
 - **Gender:** Female customers purchase slightly more
 
 ### 🔗 Power BI Dashboard File
-Due to GitHub 100MB limit, Dashboard .pbix file is available on request. Contact: jannuleelamadhuri@gmail.com
-
----
+Customer Behaviour Dashboard.pbix is available in this repo
 Created by Jannu Leela Madhuri | Data Analyst Aspirant
